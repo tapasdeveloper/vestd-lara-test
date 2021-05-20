@@ -7,8 +7,9 @@ Please follow the following steps to install
 3. Copy the file `.env-local` to `.env`
 4. Run the following commands on terminal  
 
-
-    a. composer install
+```
+composer install
+```
     
     b. php artisan key:generate
     
