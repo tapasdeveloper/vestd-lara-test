@@ -1,4 +1,4 @@
-# vestd-lara-test
+# Test for Vstd
 Test project for vestd
 
 Please follow the following steps to install
