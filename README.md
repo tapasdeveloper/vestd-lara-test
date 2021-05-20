@@ -34,7 +34,8 @@ php artisan config:cache
 ```
 php artisan queue:work  
 ```  
-    
+After doing all these, please register a user. (the registration link will be available at the home page)
+
 General Information regarding this program  
 
 1. I used the email driver as `log` therefore email containing archive will be stored in `/storage/logs/laravel.log`
