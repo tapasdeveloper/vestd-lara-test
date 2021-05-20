@@ -28,8 +28,8 @@ npm install
 npm run dev  
 ```
  
-5. Please provide write permissions to `storage` folder. (if required)
-6. Run the following commands on terminal  
+7. Please provide write permissions to `storage` folder. (if required)
+8. Run the following commands on terminal  
 ```
 php artisan config:cache  
 ```
