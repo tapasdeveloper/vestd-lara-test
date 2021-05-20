@@ -1,4 +1,4 @@
-# Test for Vestd
+# Technical Test for Vestd
 Test project for vestd
 
 Please follow the following steps to install
