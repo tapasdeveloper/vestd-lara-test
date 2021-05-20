@@ -1,4 +1,4 @@
-# Test for Vstd
+# Test for Vestd
 Test project for vestd
 
 Please follow the following steps to install
