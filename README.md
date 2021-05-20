@@ -16,14 +16,16 @@ php artisan key:generate
 ```
 php artisan storage:link
 ```
-    
-    d. php artisan migrate  
-    
-    e. npm install  
-    
-    f. npm run dev  
-    
-    
+```
+php artisan migrate  
+```
+```
+npm install  
+```
+```
+npm run dev  
+```
+ 
 5. Please provide write permissions to `storage` folder. (if required)
 6. Run the following commands on terminal  
 
