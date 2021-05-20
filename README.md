@@ -28,12 +28,12 @@ npm run dev
  
 5. Please provide write permissions to `storage` folder. (if required)
 6. Run the following commands on terminal  
-
-
-    a. php artisan config:cache  
-    
-    b. php artisan queue:work  
-    
+```
+php artisan config:cache  
+```
+```
+php artisan queue:work  
+```  
     
 General Information regarding this program  
 
