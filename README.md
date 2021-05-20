@@ -10,10 +10,12 @@ Please follow the following steps to install
 ```
 composer install
 ```
-    
-    b. php artisan key:generate
-    
-    c. php artisan storage:link
+```
+php artisan key:generate
+```
+```
+php artisan storage:link
+```
     
     d. php artisan migrate  
     
