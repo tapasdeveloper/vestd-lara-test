@@ -5,7 +5,9 @@ Please follow the following steps to install
 1. Download the repository to local environment
 2. Create a mySql database (i.e., `db_vestd_test`)
 3. Copy the file `.env-local` to `.env`
-4. Run the following commands on terminal  
+4. Change the `APP_URL` as per your server in .env file
+5. change the DB credentials etc.
+6. Run the following commands on terminal  
 
 ```
 composer install
